@@ -1,0 +1,26 @@
+@Timely
+tly   javascript:(function(){var%20w=500,h=200,l=Math.round((screen.width-w)/2),t=Math.round((screen.height-h)/2),d=document,s=w.getSelection?w.getSelection():d.title;if(s=='')s=d.title;window.ft=window.open('http://timely.flowtown.com/bookmarklet?s='+encodeURIComponent(s+'%20'+d.location),'','left='+l+',top='+(t%3E0?t:0)+',width='+w+',height='+h+',personalbar=0,toolbar=0,scrollbars=0,resizable=1');})(); Schedule a tweet with current page with Timely
+
+@Delicious search
+@default quix bookmarklet only adds to Delicious, but this search Delicious too
+ds    http://delicious.com/search?p=%s&chk=&context=userposts%7Cayn&fr=del_icio_us&lc=1   search my del.icio.us bookmarks
+dsa   http://delicious.com/search?p=%s&chk=&context=main%7C&fr=del_icio_us&lc=            search all del.icio.us
+dsn   http://delicious.com/search?p=%s&chk=&context=network%7Cayn&fr=del_icio_us&lc=1     search my network at del.icio.us
+dse   http://delicious.com/search?p=%s&chk=&context=all&fr=del_icio_us&lc=1               search everyone at del.icio.us
+
+@Pinboard
+@pinboard integration
+ps    http://pinboard.in/search/?query=%s&mine=Search+Mine                                search my Pinboard bookmarks
+pb    http://pinboard.in/add/?url=%r&title=%t                                             add bookmark to Pinboard
+
+@github search
+@search keywords at GitHub
+gh    http://github.com/search?q=%s&type=Everything&repo=&langOverride=&start_value=1     search GitHub
+
+@other custom stuff
+i     javascript:function%20iprl5(){var%20d=document,z=d.createElement('scr'+'ipt'),b=d.body;try{if(!b)throw(0);d.title='(Saving...)%20'+d.title;z.setAttribute('src','http://www.instapaper.com/j/9igIk8dYoxTw?u='+encodeURIComponent(d.location.href)+'&t='+(new%20Date().getTime()));b.appendChild(z);}catch(e){alert('Please%20wait%20until%20the%20page%20has%20loaded.');}}iprl5();void(0) Save to Instapaper (copy and paste your own link as this is unique to my account)
+ud    http://www.urbandictionary.com/define.php?term=%s search urban dictionary 
+
+@Default
+@adding default Google search
+*   https://www.google.com/search?q=%s Untriggered search with Google SSL
