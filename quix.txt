@@ -11,7 +11,7 @@ dse   http://delicious.com/search?p=%s&chk=&context=all&fr=del_icio_us&lc=1     
 @Pinboard
 @pinboard integration
 ps    http://pinboard.in/search/?query=%s&mine=Search+Mine                                search my Pinboard bookmarks
-pb    http://pinboard.in/add/?url=%r&title=%t                                             add bookmark to Pinboard
+pb    http://pinboard.in/add/?url=%r&title=%t&next=%r                                     add bookmark to Pinboard
 
 @github search
 @search keywords at GitHub
