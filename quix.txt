@@ -31,6 +31,7 @@ behance http://www.behance.net/gallery Behance
 mmm http://www.mymodernmet.com/ My Modern Met
 hn http://news.ycombinator.com HN
 tw http://twitter.com Twitter
+amzn http://www.amazon.com/exec/obidos/redirect?tag=carmudgeonsco-20&creative=0&camp=0&link_code=ez&adid=07PJFK4FC2JY30FDE5NG&path=subst/home/home.html Amazon
 
 @Default
 @adding default Google search
