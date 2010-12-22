@@ -1,5 +1,5 @@
 @Timely
-tly   javascript:(function(){var%20w=500,h=200,l=Math.round((screen.width-w)/2),t=Math.round((screen.height-h)/2),d=document,s=w.getSelection?w.getSelection():d.title;if(s=='')s=d.title;window.ft=window.open('http://timely.flowtown.com/bookmarklet?s='+encodeURIComponent(s+'%20'+d.location),'','left='+l+',top='+(t%3E0?t:0)+',width='+w+',height='+h+',personalbar=0,toolbar=0,scrollbars=0,resizable=1');})(); Schedule a tweet with current page with Timely
+tly   javascript:(function(){var%20w=500,h=225,l=Math.round((screen.width-w)/2),t=Math.round((screen.height-h)/2),d=document,s=w.getSelection?w.getSelection():d.title;if(s=='')s=d.title;window.ft=window.open('http://timely.flowtown.com/bookmarklet?s='+encodeURIComponent(s+'%20'+d.location),'','left='+l+',top='+(t%3E0?t:0)+',width='+w+',height='+h+',personalbar=0,toolbar=0,scrollbars=0,resizable=1');})(); Schedule a tweet with current page with Timely
 
 @Delicious search
 @default quix bookmarklet only adds to Delicious, but this search Delicious too
