@@ -26,12 +26,15 @@ tweet  http://backtweets.com/search?q=%s Show BackTweets on this URL
 
 @bookmarks
 found http://ffffound.com/ FFFFound
+tm http://techmeme.com techmeme
+amzn http://www.amazon.com/exec/obidos/redirect?tag=carmudgeonsco-20&creative=0&camp=0&link_code=ez&adid=07PJFK4FC2JY30FDE5NG&path=subst/home/home.html Amazon
+pow http://www.skiheavenly.com/the-mountain/snow-report/snow-report.aspx Snow Report
+50 http://www.dot.ca.gov/cgi-bin/roads.cgi?roadnumber=50 caltran road conditions on 50
 dyt http://designyoutrust.com/ DesignYouTrust
 behance http://www.behance.net/gallery Behance
 mmm http://www.mymodernmet.com/ My Modern Met
 hn http://news.ycombinator.com HN
 tw http://twitter.com Twitter
-amzn http://www.amazon.com/exec/obidos/redirect?tag=carmudgeonsco-20&creative=0&camp=0&link_code=ez&adid=07PJFK4FC2JY30FDE5NG&path=subst/home/home.html Amazon
 
 @Default
 @adding default Google search
