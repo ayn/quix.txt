@@ -20,6 +20,17 @@ gh    http://github.com/search?q=%s&type=Everything&repo=&langOverride=&start_va
 @other custom stuff
 i     javascript:function%20iprl5(){var%20d=document,z=d.createElement('scr'+'ipt'),b=d.body;try{if(!b)throw(0);d.title='(Saving...)%20'+d.title;z.setAttribute('src','http://www.instapaper.com/j/9igIk8dYoxTw?u='+encodeURIComponent(d.location.href)+'&t='+(new%20Date().getTime()));b.appendChild(z);}catch(e){alert('Please%20wait%20until%20the%20page%20has%20loaded.');}}iprl5();void(0) Save to Instapaper (copy and paste your own link as this is unique to my account)
 ud    http://www.urbandictionary.com/define.php?term=%s search urban dictionary 
+ffff  javascript:void((function(){var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://ffffound.com/bookmarklet.js');document.body.appendChild(e)})()); Post to FFFFOUND!
+down   http://downforeveryoneorjustme.com/%d Is this site downforeveryoneorjustme?
+tweet  http://backtweets.com/search?q=%s Show BackTweets on this URL
+
+@bookmarks
+found http://ffffound.com/ FFFFound
+dyt http://designyoutrust.com/ DesignYouTrust
+behance http://www.behance.net/gallery Behance
+mmm http://www.mymodernmet.com/ My Modern Met
+hn http://news.ycombinator.com HN
+tw http://twitter.com Twitter
 
 @Default
 @adding default Google search
