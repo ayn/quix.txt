@@ -27,7 +27,7 @@ wp     javascript:var%20d=document,w=window,e=w.getSelection,k=d.getSelection,x=
 
 @bookmarks
 tapi http://twitapi.com/explore/ Twitter API Explorer
-tc http://dev.twitter.com/console Twitter API Console
+tc http://app.apigee.com/console/twitter Apigee Twitter API Console
 found http://ffffound.com/ FFFFound
 tm http://techmeme.com techmeme
 amzn http://www.amazon.com/exec/obidos/redirect?tag=carmudgeonsco-20&creative=0&camp=0&link_code=ez&adid=07PJFK4FC2JY30FDE5NG&path=subst/home/home.html Amazon
