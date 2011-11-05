@@ -21,6 +21,7 @@ ffff  javascript:void((function(){var%20e=document.createElement('script');e.set
 down   http://downforeveryoneorjustme.com/%d Is this site downforeveryoneorjustme?
 tweet  http://backtweets.com/search?q=%s Show BackTweets on this URL
 wp     javascript:var%20d=document,w=window,e=w.getSelection,k=d.getSelection,x=d.selection,s=(e?e():(k)?k():(x?x.createRange().text:0)),f='http://blog.andrewng.com/wp-admin/press-this.php',l=d.location,e=encodeURIComponent,u=f+'?u='+e(l.href)+'&t='+e(d.title)+'&s='+e(s)+'&v=4';a=function(){if(!w.open(u,'t','toolbar=0,resizable=1,scrollbars=1,status=1,width=720,height=570'))l.href=u;};if%20(/Firefox/.test(navigator.userAgent))%20setTimeout(a,%200);%20else%20a();void(0) Wordpress Press This
+plex  javascript:%20var%20s=document.createElement(%22script%22);s.type=%22text/javascript%22;s.src=%22https://my.plexapp.com/queue/bookmarklet_payload?uid=5356b7804a5c5628%22;var%20h=document.getElementsByTagName(%22head%22)[0];h.appendChild(s);void(0);
 
 @bookmarks
 tapi http://twitapi.com/explore/ Twitter API Explorer
@@ -35,6 +36,7 @@ behance http://www.behance.net/gallery Behance
 mmm http://www.mymodernmet.com/ My Modern Met
 hn http://news.ycombinator.com HN
 tw http://twitter.com Twitter
+24 http://www.24hourfitness.com/FindClasses.do?zip=94133 24hrfitness classes
 
 @Default
 @adding default Google search
