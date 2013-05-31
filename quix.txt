@@ -29,6 +29,7 @@ whohosts	http://www.whoishostingthis.com/%d	Who is hosting this?
 sf		javascript:var%20inputs=document.getElementsByTagName('input'),firstSearch=false,textinputs=[],i,t;for(i=0;i<inputs.length;i++)if(((inputs[i].type==='text')||(inputs[i].type==='search'))&&inputs.disabled!==true)textinputs.push(inputs[i]);for(t=0;t<textinputs.length;t++)if((/search/i).test(textinputs[t].className)||(/(^[sq]$|search|query)/i).test(textinputs[t].id)||(/^(q(uery)?|s|.*?search.*)$/).test(textinputs[t].name)){firstSearch=textinputs[t];break;}if(!firstSearch)textinputs[0].focus();else%20firstSearch.focus();		Find and focus the search field for the current page
 md 		javascript:location.href='http://heckyesmarkdown.com/go/?read=1&preview=0&showframe=0&u='+encodeURIComponent(document.location.href);		Get Raw Markdown for page
 mdp		javascript:location.href='http://heckyesmarkdown.com/go/?read=1&preview=0&showframe=1&u='+encodeURIComponent(document.location.href);		Get Markdown Preview for page
+cms   http://whatcms.org/?s=%r                                                             what cms is current site running?
 
 
 @bookmarks
