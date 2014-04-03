@@ -46,6 +46,7 @@ mmm http://www.mymodernmet.com/ My Modern Met
 hn http://news.ycombinator.com HN
 tw http://twitter.com Twitter
 24 http://www.24hourfitness.com/FindClasses.do?zip=94133 24hrfitness classes
+gse git@github.com:ayn/quix.txt.git google shopping express
 
 @Default
 @adding default Google search
