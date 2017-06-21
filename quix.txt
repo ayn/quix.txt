@@ -45,7 +45,7 @@ behance http://www.behance.net/gallery Behance
 mmm http://www.mymodernmet.com/ My Modern Met
 hn http://news.ycombinator.com HN
 tw http://twitter.com Twitter
-24 http://24hourfit.schedulesource.com/public/gxschedule.aspx?club=518&cm_sp=CDP_Runway-_-Member-_-Class%20Schedule 24hrfitness classes
+24 https://24hourfitness.com/utility/classes/?clubid=00545&cm_sp=CDP-_-Button-_-ClassSchedule 24hrfitness classes
 gse http://google.com/shopping/express/ google shopping express
 
 @Default
